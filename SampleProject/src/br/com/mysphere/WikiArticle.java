@@ -5,6 +5,7 @@ public class WikiArticle {
 	String title;
 	String author;
 	String content;
+	String contentHTML;
 	
 	public String getTitle() {
 		return title;
